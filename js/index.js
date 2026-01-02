@@ -1,4 +1,4 @@
-import questionBank from './js/question.js';
+import { questionBank } from './js/question.js';
 
 // 添加更多题目示例（实际使用时需要包含所有203题）
 for (let i = 11; i <= 203; i++) {
